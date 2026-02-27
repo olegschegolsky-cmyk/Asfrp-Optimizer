@@ -37,5 +37,3 @@ where $\alpha$, $\beta$, and $\gamma$ are user-defined optimization weights.
 ### Implementation Details
 * **Algorithm:** Implements **Simulated Annealing** (a meta-heuristic optimization algorithm) to efficiently solve the routing problem for $N=25$ nodes where Brute Force is computationally impossible.
 * **Testing:** Built-in Python `unittest` suite validates fitness evaluation logic and optimization boundaries.
-* **Алгоритм:** Використано метаевристичний алгоритм **Імітації відпалу (Simulated Annealing)**, який дозволяє знаходити субоптимальні рішення для $N=25$ міст за долі секунди.
-* **Тестування:** Покриття коду за допомогою стандартної бібліотеки `unittest`.
